@@ -9,9 +9,9 @@ Cucumber framework components:
 2. Gherkin
 3. Step Defination
 
-# Test Runner --> Help to run the class files with cucumber annotations
-# Gherkin --> Captures business requirements in plain English text & Gathers Scenario and Steps to execute
-# Step Defination --> Piece of code which connects the Gherkin file and supporting Java code
+Test Runner --> Help to run the class files with cucumber annotations
+Gherkin --> Captures business requirements in plain English text & Gathers Scenario and Steps to execute
+Step Defination --> Piece of code which connects the Gherkin file and supporting Java code
 
 Steps to execute:
 
